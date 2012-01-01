@@ -1,0 +1,5 @@
+For function prototypes see engine.h, sprite.h and clock.h
+
+To add headers visible to whole program modify common.h
+
+To add headers visible to callback functions modify game/inc/common.h
